@@ -1,4 +1,4 @@
-year,Name,Min. Temp,Max. Temp,Precip.,Temp Range
+year,Name,Min. Temp(F),Max. Temp(F),Precip.(in),Temp Range(F)
  1980,Marin,42.8,71.5,31.060000000000002,28.700000000000003
  1981,Marin,44.4,76.6,43.269999999999996,32.199999999999996
  1982,Marin,38.1,72.4,54.25,34.300000000000004
