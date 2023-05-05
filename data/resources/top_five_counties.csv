@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,Year,County,HarvestedAcres,Yield(Unit/Acre),Production,Price(Dollars/Unit),Unit,Value(Dollars)
 0,2020,Marin,195.0,1.33,260.0,3607.69,Tons,938000
 1,2020,Napa,45200.0,2.2,99300.0,4646.48,Tons,461395000
@@ -169,6 +170,8 @@
 166,1980,Napa,22261.0,3.6,80112.0,622.0,TONS,49863000
 167,1980,Sonoma,23639.0,3.34,78941.0,506.0,TONS,39982000
 =======
+=======
+>>>>>>> main
 Year,County,HarvestedAcres,Yield(Unit/Acre),Production,Price(Dollars/Unit),Unit,Value(Dollars)
 2020,Marin,195.0,1.33,260.0,3607.69,Tons,938000
 2020,Napa,45200.0,2.2,99300.0,4646.48,Tons,461395000
@@ -338,4 +341,7 @@ Year,County,HarvestedAcres,Yield(Unit/Acre),Production,Price(Dollars/Unit),Unit,
 1981,Sonoma,23776.0,3.39,80675.0,590.0,TONS,47626000
 1980,Napa,22261.0,3.6,80112.0,622.0,TONS,49863000
 1980,Sonoma,23639.0,3.34,78941.0,506.0,TONS,39982000
+<<<<<<< HEAD
 >>>>>>> 7047f41a5a6c21247571ec298ed61d0c217b4718
+=======
+>>>>>>> main
