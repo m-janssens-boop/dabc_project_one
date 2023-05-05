@@ -7,4 +7,8 @@ data_stats_analysis.ipynb runs linear regressions and looks for correlations bet
 data_visualization.ipynb visualizes the cleaned data and looks for visual comparisons via plotting.
 weather.ipynb cleans data further and plots specific weather metrics over time.
 
-After running this analysis, we concluded that our dataset was too small to see any correlations if they exist. Thus, it would be beneficial to run this code with a much larger dataset to see if there are meaningful results.
+Our research questions included: How have shifting climate patterns impacted the wine industry in California?
+Are there correlations between weather of a given year, wine production, and profitability?
+Will the 2020 top five wine producing counties continue to be the most profitable over the next 10 years based on trends from the last 40 years?
+
+Although we would prefer to have more concrete answers to our research questions, after running this analysis, we concluded that our dataset was too small to see any correlations if they do exist. Thus, it would be beneficial to run this code with a much larger dataset to see if there are meaningful results.
