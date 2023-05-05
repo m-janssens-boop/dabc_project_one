@@ -12,3 +12,5 @@ Are there correlations between weather of a given year, wine production, and pro
 Will the 2020 top five wine producing counties continue to be the most profitable over the next 10 years based on trends from the last 40 years?
 
 Although we would prefer to have more concrete answers to our research questions, after running this analysis, we concluded that our dataset was too small to see any correlations if they do exist. Thus, it would be beneficial to run this code with a much larger dataset to see if there are meaningful results.
+
+view the The Impacts of Weather on the California Wine Industry.pptx file to see our final presentation. 
