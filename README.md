@@ -14,3 +14,6 @@ Will the 2020 top five wine producing counties continue to be the most profitabl
 Although we would prefer to have more concrete answers to our research questions, after running this analysis, we concluded that our dataset was too small to see any correlations if they do exist. Thus, it would be beneficial to run this code with a much larger dataset to see if there are meaningful results.
 
 view the The Impacts of Weather on the California Wine Industry.pptx file to see our final presentation. 
+Link to presentation here: https://docs.google.com/presentation/d/12B6xBwyoTBlUf4Js63bsO3v-JCfzglAhvusVsdk_KuU/edit?usp=sharing
+
+Link to project proposal here: https://docs.google.com/document/d/18OsHL4Vfs9UgNTMCLV9U2Mu40R0FS78hmhVpkM82z50/edit?usp=sharing
