@@ -20,7 +20,8 @@ This script cleans and analyzes wine production and profitability metrics and we
 
 * data_visualization.ipynb visualizes the cleaned data and looks for visual comparisons via plotting.
 * weather.ipynb cleans data further and plots specific weather metrics over time.
-<img width="588" alt="Screenshot 2023-07-09 at 7 30 29 PM" src="https://github.com/m-janssens-boop/DABC_project_one/assets/127706155/4311b28a-ddd7-44c5-9bbc-3b0054a8a4e1">
+<img width="576" alt="252197545-4311b28a-ddd7-44c5-9bbc-3b0054a8a4e1" src="https://github.com/m-janssens-boop/DABC_project_one/assets/127706155/11c48cab-0541-40e1-b068-8b43234f28bc">
+
 
 
 #### Analyses ####
