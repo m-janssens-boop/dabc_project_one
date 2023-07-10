@@ -1,4 +1,4 @@
-# historical-wine-production-napa
+# historical-wine-production-california
 
 Background
 --------
