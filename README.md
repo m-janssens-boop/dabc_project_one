@@ -11,7 +11,7 @@ We wanted to investigate possible correlations between weather and wine producti
 )
 
 ## Objective ##
-This script cleans and analyzes wine production and profitability metrics and weather data for the state of California from 1980 to 2020. It focuses on looking for correlations between changing weather patterns and the production level and profit of the wine industry in the five counties with the highest profit for wine in 2020: Napa, Sonoma, Marin, Santa Cruz, and Placer counties. 
+This project cleans and analyzes wine production and profitability metrics and weather data for the state of California from 1980 to 2020. It focuses on looking for correlations between changing weather patterns and the production level and profit of the wine industry in the five counties with the highest profit for wine in 2020: Napa, Sonoma, Marin, Santa Cruz, and Placer counties. 
 
 #### Deliverables ####
 * data_exploration.ipynb cleans the data and creates usable dataframes and csv files.
